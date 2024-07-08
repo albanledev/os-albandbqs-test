@@ -1,7 +1,6 @@
-  name: Continious Integration
+name: Continious Integration
 
-on:
-  push:
+on: push
 
 jobs:
   ci: 
